@@ -2,8 +2,8 @@
 ## Strings, Regular Expressions, Generics & the Java Collection Framework
 
 ### Student Details
-- **Name:** PURUSHOTHAMAN.V
-- **Register Number:** 192511064
+- **Name:** C.Sai Jashwanth Reddy
+- **Register Number:** 192472142
 - **Department:** Computer Science and Engineering
 
 ### Development Environment
@@ -102,5 +102,5 @@ Screenshots of the source code execution and benchmark outputs are maintained in
 This assignment provided hands-on engineering experience in benchmarking, diagnosing bottlenecks, and selecting appropriate Java collections and generic designs using Visual Studio Code.
 
 ---
-**Submitted by:** PURUSHOTHAMAN.V  
-**Register Number:** 192511064
+**Submitted by:** C.Sai Jashwanth reddy
+**Register Number:** 192472142
